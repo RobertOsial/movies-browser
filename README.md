@@ -52,7 +52,7 @@ This project uses API provided by [The Movie Database](https://www.themoviedb.or
 ## Authors
 - Paulina Grymulska: [GitHub](https://github.com/paulgrym)
 - Mieczysław Przytuła: [GitHub](https://github.com/MieczyslawFrontDev)
-- Robert Osiał: [GitHub](https://github.com/RobertOsial)
+- Robert Osial: [GitHub](https://github.com/RobertOsial)
 
 ## Available Scripts
 
